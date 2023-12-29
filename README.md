@@ -1,7 +1,7 @@
 # Read-from-CSV
 
 ## AIM:
-
+to develop a python program to read file from csv
 ## ALGORITHM:
 ### Step 1:
 Import pandas module as pd.
@@ -24,6 +24,6 @@ print(df.tail())
 print("No.of Rows:",len(df.axes[0]))
 print("No.of Columns:",len(df.axes[1]))
 ## OUTPUT:
-![output](./CSV%20FILE.png)
+![Screenshot 2023-12-29 124658](https://github.com/niroshamuthukumar/Read-from-CSV/assets/151830921/2cfd9f70-e59d-4aae-b49d-64d5494c71c3)
 ## RESULT:
 Thus the program is executed successfully
